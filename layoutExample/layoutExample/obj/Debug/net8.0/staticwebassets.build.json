@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "9Cyw1uYehRKrTG1VAIv14qq35sfRzMJtR4OAl/ZBWuo=",
+  "Source": "layoutExample",
+  "BasePath": "_content/layoutExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "layoutExample\\wwwroot",
+      "Source": "layoutExample",
+      "ContentRoot": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\",
+      "BasePath": "_content/layoutExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "SourceId": "layoutExample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\",
+      "BasePath": "_content/layoutExample",
+      "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o9wov4ycne",
+      "Integrity": "pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 08:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.o9wov4ycne.css",
+      "AssetFile": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3069"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Mar 2025 08:34:01 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o9wov4ycne"
+        },
+        {
+          "Name": "label",
+          "Value": "StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ="
+        }
+      ]
+    }
+  ]
+}
