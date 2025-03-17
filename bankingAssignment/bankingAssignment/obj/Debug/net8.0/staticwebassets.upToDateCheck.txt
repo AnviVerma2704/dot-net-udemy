@@ -1,0 +1,2 @@
+wwwroot\image002.jpg
+wwwroot\statement.pdf

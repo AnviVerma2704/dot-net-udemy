@@ -1,0 +1,27 @@
+﻿@using viewsExample.model
+@{
+    person Person = new person()
+    {
+                id = 1,
+                name = "abc",
+    };
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>abc</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>abc</h1>
+    <p>@Person.id</p>
+    <h5>@Person.name</h5>
+    @if (Person.id == 1){
+        <h1>Welcome to abc, you are our first visitor</h1>
+    }
+    else
+    {
+        <h1>welcome to abc</h1>
+    }
+</body>
+</html>

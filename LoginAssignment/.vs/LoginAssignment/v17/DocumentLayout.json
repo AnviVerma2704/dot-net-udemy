@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dotnet\\loginassignment\\loginassignment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|solutionrelative:loginassignment\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dotnet\\loginassignment\\loginassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|solutionrelative:loginassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dotnet\\loginassignment\\loginassignment\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D43ABC4B-E46C-46F4-8B9B-C6F02972FC97}|LoginAssignment\\LoginAssignment.csproj|solutionrelative:loginassignment\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Middleware.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\Middleware.cs",
+              "RelativeDocumentMoniker": "LoginAssignment\\Middleware.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\Middleware.cs",
+              "RelativeToolTip": "LoginAssignment\\Middleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T09:01:29.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\login.cs",
+              "RelativeDocumentMoniker": "LoginAssignment\\login.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\login.cs",
+              "RelativeToolTip": "LoginAssignment\\login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:38:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "LoginAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\LoginAssignment\\LoginAssignment\\Program.cs",
+              "RelativeToolTip": "LoginAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T08:36:55.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

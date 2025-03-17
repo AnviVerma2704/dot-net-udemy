@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modelValidation\\controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\customValidators\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modelValidation\\customValidators\\datevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\model\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modelValidation\\model\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:modelValidation\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "datevalidation.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\customValidators\\datevalidation.cs",
+              "RelativeDocumentMoniker": "modelValidation\\customValidators\\datevalidation.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\customValidators\\datevalidation.cs",
+              "RelativeToolTip": "modelValidation\\customValidators\\datevalidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T06:23:40.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "modelValidation\\controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\controllers\\HomeController.cs",
+              "RelativeToolTip": "modelValidation\\controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:56:38.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\model\\Person.cs",
+              "RelativeDocumentMoniker": "modelValidation\\model\\Person.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\model\\Person.cs",
+              "RelativeToolTip": "modelValidation\\model\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:52:58.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\Program.cs",
+              "RelativeDocumentMoniker": "modelValidation\\Program.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\modelValidation\\modelValidation\\Program.cs",
+              "RelativeToolTip": "modelValidation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T04:49:39.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

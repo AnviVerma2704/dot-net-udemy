@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "bpc1txLFiYeKPyEBl1g3KLf0z2ouRdOqM24pamQ1omo=",
+  "Source": "viewsExample",
+  "BasePath": "_content/viewsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "viewsExample\\wwwroot",
+      "Source": "viewsExample",
+      "ContentRoot": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\viewsExample\\viewsExample\\wwwroot\\",
+      "BasePath": "_content/viewsExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\bankingAssignment\\bankingAssignment\\wwwroot\\image002.jpg",
+      "PackagePath": "staticwebassets\\image002.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\bankingAssignment\\bankingAssignment\\wwwroot\\statement.pdf",
+      "PackagePath": "staticwebassets\\statement.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bankingAssignment.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.bankingAssignment.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.bankingAssignment.props",
+      "PackagePath": "build\\bankingAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.bankingAssignment.props",
+      "PackagePath": "buildMultiTargeting\\bankingAssignment.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.bankingAssignment.props",
+      "PackagePath": "buildTransitive\\bankingAssignment.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

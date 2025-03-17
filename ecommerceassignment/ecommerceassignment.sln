@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ecommerceassignment", "ecommerceassignment\ecommerceassignment.csproj", "{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A19275A-7E55-47F4-8891-B2576438C5BE}
+	EndGlobalSection
+EndGlobal
