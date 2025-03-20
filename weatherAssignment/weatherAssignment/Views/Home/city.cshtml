@@ -1,0 +1,13 @@
+﻿@using weatherAssignment.model;
+@model CityWeather
+
+@{
+    ViewData["Title"] = ViewBag.Title;
+}
+
+<div class="box">
+	<p>@Model.CityUniqueCode</p>
+	<p>@Model.CityName</p>
+	<p>@Model.DateAndtime</p>
+	<p>@Model.Temperature</p>
+</div>

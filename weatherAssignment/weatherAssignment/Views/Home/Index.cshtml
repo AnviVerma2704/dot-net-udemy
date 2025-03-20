@@ -1,0 +1,22 @@
+﻿@{
+	ViewBag.Title = "weather app";
+}
+
+@using weatherAssignment.model;
+@model List<CityWeather>
+
+<h1>welcome</h1>
+
+<div class="flex">
+	@{
+		foreach (var city in Model)
+		{
+			<div class="box">
+				<p>@city.CityUniqueCode</p>
+				<p>@city.CityName</p>
+				<p>@city.DateAndtime</p>
+				<p>@city.Temperature</p>
+			</div>
+		}
+	}
+</div>

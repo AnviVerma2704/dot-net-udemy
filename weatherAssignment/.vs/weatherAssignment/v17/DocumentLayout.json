@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\views\\home\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\views\\home\\city.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\views\\home\\notvalid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\views\\home\\notvalid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|c:\\users\\anvi.verma\\desktop\\dot-net-udemy\\weatherassignment\\weatherassignment\\model\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA26B856-8590-46CD-9891-900CA21AD2ED}|weatherAssignment\\weatherAssignment.csproj|solutionrelative:weatherassignment\\model\\cityweather.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "weatherAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "weatherAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:59:22.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "city.cshtml",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\city.cshtml",
+              "RelativeDocumentMoniker": "weatherAssignment\\Views\\Home\\city.cshtml",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\city.cshtml",
+              "RelativeToolTip": "weatherAssignment\\Views\\Home\\city.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:01:11.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "weatherAssignment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "weatherAssignment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:58:36.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "weatherAssignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "weatherAssignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T09:53:31.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CityWeather.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\model\\CityWeather.cs",
+              "RelativeDocumentMoniker": "weatherAssignment\\model\\CityWeather.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\model\\CityWeather.cs",
+              "RelativeToolTip": "weatherAssignment\\model\\CityWeather.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:29:19.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "weatherAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "weatherAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:18:41.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Program.cs",
+              "RelativeDocumentMoniker": "weatherAssignment\\Program.cs",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Program.cs",
+              "RelativeToolTip": "weatherAssignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T09:14:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotValid.cshtml",
+              "DocumentMoniker": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\NotValid.cshtml",
+              "RelativeDocumentMoniker": "weatherAssignment\\Views\\Home\\NotValid.cshtml",
+              "ToolTip": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\weatherAssignment\\weatherAssignment\\Views\\Home\\NotValid.cshtml",
+              "RelativeToolTip": "weatherAssignment\\Views\\Home\\NotValid.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T11:13:02.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
