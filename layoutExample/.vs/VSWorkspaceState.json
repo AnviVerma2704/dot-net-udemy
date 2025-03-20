@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\layoutExample",
+    "\\layoutExample\\Controllers",
+    "\\layoutExample\\Views",
+    "\\layoutExample\\Views\\Home",
+    "\\layoutExample\\Views\\Shared",
+    "\\layoutExample\\wwwroot"
+  ],
+  "SelectedNode": "\\layoutExample\\layoutExample.csproj",
+  "PreviewInSolutionExplorer": false
+}

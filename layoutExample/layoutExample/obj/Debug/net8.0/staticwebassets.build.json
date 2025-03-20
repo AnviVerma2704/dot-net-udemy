@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9Cyw1uYehRKrTG1VAIv14qq35sfRzMJtR4OAl/ZBWuo=",
+  "Hash": "nXdh8Uqaxhtl6jyX4zaITxPqWjx2cQ5RcX7/Q2J7lgM=",
   "Source": "layoutExample",
   "BasePath": "_content/layoutExample",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "layoutExample\\wwwroot",
       "Source": "layoutExample",
-      "ContentRoot": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\layoutExample\\layoutExample\\wwwroot\\",
       "BasePath": "_content/layoutExample",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
       "SourceId": "layoutExample",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\layoutExample\\layoutExample\\wwwroot\\",
       "BasePath": "_content/layoutExample",
       "RelativePath": "StyleSheet#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "o9wov4ycne",
-      "Integrity": "pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=",
+      "Fingerprint": "73e2skl2na",
+      "Integrity": "0+8L2hR5+dB9KES6UWw0eAJ9bBC8/W2o5k7ggi/dxLs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\StyleSheet.css"
@@ -40,8 +40,8 @@
   ],
   "Endpoints": [
     {
-      "Route": "StyleSheet.css",
-      "AssetFile": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "Route": "StyleSheet.73e2skl2na.css",
+      "AssetFile": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -50,7 +50,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3069"
+          "Value": "3319"
         },
         {
           "Name": "Content-Type",
@@ -58,48 +58,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=\""
+          "Value": "\"0+8L2hR5+dB9KES6UWw0eAJ9bBC8/W2o5k7ggi/dxLs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 08:34:01 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ="
-        }
-      ]
-    },
-    {
-      "Route": "StyleSheet.o9wov4ycne.css",
-      "AssetFile": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "3069"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 17 Mar 2025 08:34:01 GMT"
+          "Value": "Tue, 18 Mar 2025 05:25:15 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -109,7 +72,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "o9wov4ycne"
+          "Value": "73e2skl2na"
         },
         {
           "Name": "label",
@@ -117,7 +80,44 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pBePWL7v3yCE9DYcq+saMhWtnHZA56dfkllfEnOg9TQ="
+          "Value": "sha256-0+8L2hR5+dB9KES6UWw0eAJ9bBC8/W2o5k7ggi/dxLs="
+        }
+      ]
+    },
+    {
+      "Route": "StyleSheet.css",
+      "AssetFile": "C:\\Users\\anvi.verma\\Desktop\\dot-net-udemy\\layoutExample\\layoutExample\\wwwroot\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3319"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"0+8L2hR5+dB9KES6UWw0eAJ9bBC8/W2o5k7ggi/dxLs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 18 Mar 2025 05:25:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-0+8L2hR5+dB9KES6UWw0eAJ9bBC8/W2o5k7ggi/dxLs="
         }
       ]
     }

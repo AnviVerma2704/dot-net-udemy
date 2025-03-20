@@ -1,12 +1,55 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\ecommerceassignment\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}|ecommerceassignment\\ecommerceassignment.csproj|c:\\users\\anvi.verma\\desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}|ecommerceassignment\\ecommerceassignment.csproj|solutionrelative:ecommerceassignment\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}|ecommerceassignment\\ecommerceassignment.csproj|c:\\users\\anvi.verma\\desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C58F5A4-E4DC-47A9-B4EF-7C67081BE210}|ecommerceassignment\\ecommerceassignment.csproj|solutionrelative:ecommerceassignment\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "order.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\order.cs",
+              "RelativeDocumentMoniker": "ecommerceassignment\\model\\order.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\order.cs",
+              "RelativeToolTip": "ecommerceassignment\\model\\order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:22:31.328Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\product.cs",
+              "RelativeDocumentMoniker": "ecommerceassignment\\model\\product.cs",
+              "ToolTip": "C:\\Users\\Anvi.Verma\\Desktop\\dotnet\\ecommerceassignment\\ecommerceassignment\\model\\product.cs",
+              "RelativeToolTip": "ecommerceassignment\\model\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:25:23.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

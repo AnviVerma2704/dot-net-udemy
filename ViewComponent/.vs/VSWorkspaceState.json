@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ViewComponent",
+    "\\ViewComponent\\ViewComponents",
+    "\\ViewComponent\\Views",
+    "\\ViewComponent\\Views\\Shared\\Components",
+    "\\ViewComponent\\Views\\Shared\\Components\\Grid",
+    "\\ViewComponent\\wwwroot"
+  ],
+  "SelectedNode": "\\ViewComponent\\Views",
+  "PreviewInSolutionExplorer": false
+}
